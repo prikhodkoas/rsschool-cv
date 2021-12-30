@@ -20,17 +20,17 @@ position of FullStack Developer
 I'm a .NET desctop developer and I am very passionate about my work, but I always seek to improve and develop my skills that's why I started learning front-end in RSSchool. I am а quick learner, open to change, highly self-motivated and detail-oriented. I am a strong team worker and I'm always focused on achieving the best possible results.
 
 ### Languages and technologies:
-.Net
-.NetCore
-Asp.NetCore
-C#
-SQL
-EntityFramework
+* .Net
+* .NetCore
+* Asp.NetCore
+* C#
+* SQL
+* EntityFramework
 
 ### Tools and environment:
-MS Visual studio, 2012-2019
-MS Visual studio code
-Git, Github Bitbucket
+* MS Visual studio, 2012-2019
+* MS Visual studio code
+* Git, Github Bitbucket
 
 ### Code example:
 ```javascript
